@@ -2,8 +2,7 @@
 
 ###
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=katari23&show_icons=true&theme=dracula" height="150" alt="GitHub stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katari23&layout=compact&theme=dracula" height="150" alt="languages graph" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/katari23/katari23/main/generated/overview.svg" height="150" alt="GitHub stats graph" /> </div>
 
 
 
