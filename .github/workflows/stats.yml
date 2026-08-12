@@ -1,0 +1,15 @@
+name: generate stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate stats card
+        uses: jstrieb/github-stats@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
